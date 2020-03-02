@@ -5,9 +5,9 @@
 ## Quick Start
 
 ```bash
-# Install dependencies server/client
+# Install dependencies server/clientside
 npm install
-cd client
+cd clientside
 npm install
 
 # Serve on localhost:3000
